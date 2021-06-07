@@ -5,11 +5,8 @@
 **2021**
 
 - Real-Time High-Resolution Background Matting [CVPR] [paper](https://arxiv.org/abs/2012.07810.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2)
-  
 - Semantic Image Matting [CVPR] [paper](https://arxiv.org/pdf/2104.08201v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/SIM.svg?logo=github&label=Stars)](https://github.com/nowsyn/SIM)
-  
 - Mask Guided Matting via Progressive Refinement Network [CVPR] [paper](https://arxiv.org/pdf/2012.06722.pdf) [![GitHub stars](https://img.shields.io/github/stars/yucornetto/MGMatting.svg?logo=github&label=Stars)](https://github.com/yucornetto/MGMatting)
-  
 - Improved Image Matting via Real-time User Clicks and Uncertainty Estimation [CVPR] [paper](https://arxiv.org/pdf/2012.08323.pdf)
 - Salient Image Matting [CVPR] [paper](https://arxiv.org/pdf/2103.12337.pdf)
 - High-Resolution Deep Image Matting [AAAI] [paper](https://arxiv.org/pdf/2009.06613.pdf)
@@ -46,7 +43,6 @@
 
 - TOM-Net: Learning Transparent Object Matting from a Single Image [CVPR] [paper](https://guanyingc.github.io/TOM-Net/files/tom-net_cvpr18.pdf) [dataset](http://www.visionlab.cs.hku.hk/data/TOM-Net/) [![GitHub stars](https://img.shields.io/github/stars/guanyingc/TOM-Net.svg?logo=github&label=Stars)](https://github.com/guanyingc/TOM-Net)
 - AlphaGAN: Generative Adversarial Networks for Natural Image Matting. [BMVC] [paper](https://arxiv.org/pdf/1807.10088.pdf)
-
 - Semantic Human Matting [MM] [paper](https://arxiv.org/pdf/1809.01354.pdf)
 
 **2017**
@@ -66,16 +62,13 @@
 
 **2013**
 - Image Matting with Local and Nonlocal Smooth Priors [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Image_Matting_with_2013_CVPR_paper.pdf)
-
 - Improving Image Matting Using Comprehensive Sampling Sets [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Image_Matting_with_2013_CVPR_paper.pdf)
-
 - A Learning-Based Approach to Reduce JPEG Artifacts in Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Choi_A_Learning-Based_Approach_2013_ICCV_paper.pdf)
 
 ## Video Matting
 
 **2021**
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation [CVPR] [paper](https://arxiv.org/pdf/2104.11208.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/DVM.svg?logo=github&label=Stars)](https://github.com/nowsyn/DVM)
-
 - Attention-guided Temporal Coherent Video Object Matting [arXiv] [paper](https://arxiv.org/pdf/2105.11427.pdf) [![GitHub stars](https://img.shields.io/github/stars/yunkezhang/TCVOM.svg?logo=github&label=Stars)](https://github.com/yunkezhang/TCVOM)
 
 **2015**
