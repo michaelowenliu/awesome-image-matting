@@ -93,6 +93,6 @@
 - https://ai.baidu.com/tech/body/seg
 - https://open.versa-ai.com/demo/human-segmentation
 
-## Beckmarks
+## Toolkits
 
 - https://github.com/PaddlePaddle/PaddleSeg [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg)
