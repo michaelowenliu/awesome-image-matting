@@ -50,7 +50,6 @@
 **2017**
 - Information-Flow Matting [ICCV] [paper](https://arxiv.org/pdf/1707.05055.pdf) [![GitHub stars](https://img.shields.io/github/stars/tsogkas/amat.svg?logo=github&label=Stars)](https://github.com/tsogkas/amat)
 - DIM: Deep Image Matting [CVPR] [paper](https://arxiv.org/pdf/1703.03872.pdf) [![GitHub stars](https://img.shields.io/github/stars/foamliu/Deep-Image-Matting-PyTorch.svg?logo=github&label=Stars)](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
-
 - Designing Effective Inter-Pixel Information Flow for Natural Image Matting [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Aksoy_Designing_Effective_Inter-Pixel_CVPR_2017_paper.pdf)
   
 **2016**
