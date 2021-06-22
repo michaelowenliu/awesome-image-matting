@@ -16,6 +16,7 @@
 - Human Perception Modeling for Automatic Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2103.17020.pdf)
 - Cascade Image Matting with Deformable Graph Refinement [arXiv] [paper](https://arxiv.org/pdf/2105.02646.pdf)
 - Privacy-Preserving Portrait Matting [arXiv] [paper](https://arxiv.org/pdf/2104.14222.pdf)
+- Alpha Matte Generation from Single Input for Portrait Matting [arXiv] [paper](https://arxiv.org/pdf/2106.03210.pdf)
 
 **2020**
 
@@ -53,7 +54,7 @@
 - Designing Effective Inter-Pixel Information Flow for Natural Image Matting [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Aksoy_Designing_Effective_Inter-Pixel_CVPR_2017_paper.pdf)
   
 **2016**
-- Natural Image Matting Using Deep CNN [ECCV] [paper]()
+- Natural Image Matting Using Deep CNN [ECCV] [paper](http://www.eccv2016.org/files/posters/P-1B-43.pdf)
 - Deep Automatic Portrait Matting [ECCV] [paper](http://www.cse.cuhk.edu.hk/~leojia/projects/automatting/papers/deepmatting.pdf) 
 
 **2015**
