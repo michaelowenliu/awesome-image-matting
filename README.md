@@ -4,7 +4,7 @@
 
 **2021**
 
-- Real-Time High-Resolution Background Matting [CVPR] [paper](https://arxiv.org/abs/2012.07810.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2)
+- Real-Time High-Resolution Background Matting [CVPR] [paper](https://arxiv.org/abs/2012.07810.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2) :thumbsup: :thumbsup: :thumbsup:
 - Semantic Image Matting [CVPR] [paper](https://arxiv.org/pdf/2104.08201v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/SIM.svg?logo=github&label=Stars)](https://github.com/nowsyn/SIM)
 - Mask Guided Matting via Progressive Refinement Network [CVPR] [paper](https://arxiv.org/pdf/2012.06722.pdf) [![GitHub stars](https://img.shields.io/github/stars/yucornetto/MGMatting.svg?logo=github&label=Stars)](https://github.com/yucornetto/MGMatting)
 - Improved Image Matting via Real-time User Clicks and Uncertainty Estimation [CVPR] [paper](https://arxiv.org/pdf/2012.08323.pdf)
@@ -20,13 +20,13 @@
 
 **2020**
 
-- Background Matting: The World Is Your Green Screen [CVPR] [paper](https://arxiv.org/abs/2004.00626) [![GitHub stars](https://img.shields.io/github/stars/senguptaumd/Background-Matting.svg?logo=github&label=Stars)](https://github.com/senguptaumd/Background-Matting)
+- Background Matting: The World Is Your Green Screen [CVPR] [paper](https://arxiv.org/abs/2004.00626) [![GitHub stars](https://img.shields.io/github/stars/senguptaumd/Background-Matting.svg?logo=github&label=Stars)](https://github.com/senguptaumd/Background-Matting) :thumbsup: :thumbsup: :thumbsup:
 - Attention-Guided Hierarchical Structure Aggregation for Image Matting [CVPR] [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/wukaoliu/CVPR2020-HAttMatting.svg?logo=github&label=Stars)](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 - Boosting Semantic Human Matting With Coarse Annotations [CVPR] [paper](https://arxiv.org/pdf/2004.04955.pdf)
 - Natural Image Matting via Guided Contextual Attention. [AAAI] [paper](http://arxiv.org/abs/2001.04069) [![GitHub stars](https://img.shields.io/github/stars/Yaoyi-Li/GCA-Matting.svg?logo=github&label=Stars)](https://github.com/Yaoyi-Li/GCA-Matting)
 - Towards Light-Weight Portrait Matting via Parameter Sharing [EuroGraphics] [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14179)
 - Hierarchical Opacity Propagation for Image Matting [arXiv] [paper](https://arxiv.org/pdf/2004.03249.pdf) [![GitHub stars](https://img.shields.io/github/stars/Yaoyi-Li/HOP-Matting.svg?logo=github&label=Stars)](https://github.com/Yaoyi-Li/HOP-Matting)
-- MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arXiv] [paper](https://arxiv.org/pdf/2011.11961.pdf) [![GitHub stars](https://img.shields.io/github/stars/ZHKKKe/MODNet.svg?logo=github&label=Stars)](https://github.com/ZHKKKe/MODNet)
+- MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arXiv] [paper](https://arxiv.org/pdf/2011.11961.pdf) [![GitHub stars](https://img.shields.io/github/stars/ZHKKKe/MODNet.svg?logo=github&label=Stars)](https://github.com/ZHKKKe/MODNet) :thumbsup: :thumbsup:
 - End-to-end Animal Image Matting [arXiv] [paper](https://arxiv.org/pdf/2010.16188.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/animal-matting.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/animal-matting)
 - F, B, Alpha Matting [arXiv] [paper](https://arxiv.org/pdf/2003.07711.pdf) [![GitHub stars](https://img.shields.io/github/stars/MarcoForte/FBA_Matting.svg?logo=github&label=Stars)](https://github.com/MarcoForte/FBA_Matting)
 - AlphaNet: An Attention Guided Deep Network for Automatic Image Matting [arXiv] [paper](https://arxiv.org/pdf/2003.03613.pdf)
@@ -50,7 +50,7 @@
 
 **2017**
 - Information-Flow Matting [ICCV] [paper](https://arxiv.org/pdf/1707.05055.pdf) [![GitHub stars](https://img.shields.io/github/stars/tsogkas/amat.svg?logo=github&label=Stars)](https://github.com/tsogkas/amat)
-- DIM: Deep Image Matting [CVPR] [paper](https://arxiv.org/pdf/1703.03872.pdf) [![GitHub stars](https://img.shields.io/github/stars/foamliu/Deep-Image-Matting-PyTorch.svg?logo=github&label=Stars)](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
+- DIM: Deep Image Matting [CVPR] [paper](https://arxiv.org/pdf/1703.03872.pdf) [![GitHub stars](https://img.shields.io/github/stars/foamliu/Deep-Image-Matting-PyTorch.svg?logo=github&label=Stars)](https://github.com/foamliu/Deep-Image-Matting-PyTorch) :thumbsup:
 - Designing Effective Inter-Pixel Information Flow for Natural Image Matting [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Aksoy_Designing_Effective_Inter-Pixel_CVPR_2017_paper.pdf)
   
 **2016**
