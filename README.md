@@ -4,6 +4,7 @@
 
 **2021**
 
+- Deep Automatic Natural Image Matting [IJCAI] [paper](https://arxiv.org/pdf/2107.07235.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/AIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/AIM)
 - Real-Time High-Resolution Background Matting [CVPR] [paper](https://arxiv.org/abs/2012.07810.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2) :thumbsup: :thumbsup: :thumbsup:
 - Semantic Image Matting [CVPR] [paper](https://arxiv.org/pdf/2104.08201v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/SIM.svg?logo=github&label=Stars)](https://github.com/nowsyn/SIM)
 - Mask Guided Matting via Progressive Refinement Network [CVPR] [paper](https://arxiv.org/pdf/2012.06722.pdf) [![GitHub stars](https://img.shields.io/github/stars/yucornetto/MGMatting.svg?logo=github&label=Stars)](https://github.com/yucornetto/MGMatting)
