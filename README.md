@@ -2,6 +2,9 @@
 
 ## Image Matting
 
+**2022**
+- Deep Automatic Natural Image Matting [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting)
+
 **2021**
 
 - Deep Automatic Natural Image Matting [IJCAI] [paper](https://arxiv.org/pdf/2107.07235.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/AIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/AIM)
