@@ -2,9 +2,6 @@
 
 ## Image Matting
 
-**2022**
-- Deep Automatic Natural Image Matting [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting)
-
 **2021**
 
 - Deep Automatic Natural Image Matting [IJCAI] [paper](https://arxiv.org/pdf/2107.07235.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/AIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/AIM)
@@ -72,6 +69,9 @@
 - A Learning-Based Approach to Reduce JPEG Artifacts in Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Choi_A_Learning-Based_Approach_2013_ICCV_paper.pdf)
 
 ## Video Matting
+
+**2022**
+- Robust High-Resolution Video Matting with Temporal Guidance [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting)
 
 **2021**
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation [CVPR] [paper](https://arxiv.org/pdf/2104.11208.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/DVM.svg?logo=github&label=Stars)](https://github.com/nowsyn/DVM)
