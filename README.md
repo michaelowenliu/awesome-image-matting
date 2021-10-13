@@ -71,7 +71,7 @@
 ## Video Matting
 
 **2022**
-- Robust High-Resolution Video Matting with Temporal Guidance [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting)
+- Robust High-Resolution Video Matting with Temporal Guidance [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting) :thumbsup: :thumbsup: :thumbsup:
 
 **2021**
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation [CVPR] [paper](https://arxiv.org/pdf/2104.11208.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/DVM.svg?logo=github&label=Stars)](https://github.com/nowsyn/DVM)
