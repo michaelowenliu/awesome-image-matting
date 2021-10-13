@@ -15,8 +15,9 @@
 - Towards Enhancing Fine-grained Details for Image Matting [WACV] [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Towards_Enhancing_Fine-Grained_Details_for_Image_Matting_WACV_2021_paper.pdf)
 - Multi-scale Information Assembly for Image Matting [arXiv] [paper](https://arxiv.org/abs/2101.02391)
 - Human Perception Modeling for Automatic Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2103.17020.pdf)
-- Cascade Image Matting with Deformable Graph Refinement [arXiv] [paper](https://arxiv.org/pdf/2105.02646.pdf)
+- Cascade Image Matting with Deformable Graph Refinement [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Cascade_Image_Matting_With_Deformable_Graph_Refinement_ICCV_2021_paper.pdf)
 - Privacy-Preserving Portrait Matting [arXiv] [paper](https://arxiv.org/pdf/2104.14222.pdf)
+- Tripartite Information Mining and Integration for Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.pdf)
 - Alpha Matte Generation from Single Input for Portrait Matting [arXiv] [paper](https://arxiv.org/pdf/2106.03210.pdf)
 
 **2020**
