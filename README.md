@@ -76,7 +76,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Robust High-Resolution Video Matting with Temporal Guidance [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting) :thumbsup: :thumbsup: :thumbsup:
 
 **2021**
-- Video Matting via Consistency-Regularized Graph Neural Networks [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Video_Matting_via_Consistency-Regularized_Graph_Neural_Networks_ICCV_2021_paper.pdf) [![GitHub stars](https://github.com/TiantianWang/VideoMatting-CRGNN)
+- Video Matting via Consistency-Regularized Graph Neural Networks [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Video_Matting_via_Consistency-Regularized_Graph_Neural_Networks_ICCV_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/TiantianWang/VideoMatting-CRGNN.svg?logo=github&label=Stars)](https://github.com/TiantianWang/VideoMatting-CRGNN)
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation [CVPR] [paper](https://arxiv.org/pdf/2104.11208.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/DVM.svg?logo=github&label=Stars)](https://github.com/nowsyn/DVM)
 - Attention-guided Temporal Coherent Video Object Matting [arXiv] [paper](https://arxiv.org/pdf/2105.11427.pdf) [![GitHub stars](https://img.shields.io/github/stars/yunkezhang/TCVOM.svg?logo=github&label=Stars)](https://github.com/yunkezhang/TCVOM)
 
