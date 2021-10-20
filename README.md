@@ -3,6 +3,7 @@
 ## Image Matting
 
 **2021**
+- Video Matting via Consistency-Regularized Graph Neural Networks [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Virtual_Multi-Modality_Self-Supervised_Foreground_Matting_for_Human-Object_Interaction_ICCV_2021_paper.pdf)
 - Tripartite Information Mining and Integration for Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.pdf)
 - Cascade Image Matting with Deformable Graph Refinement [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Cascade_Image_Matting_With_Deformable_Graph_Refinement_ICCV_2021_paper.pdf)
 - Deep Automatic Natural Image Matting [IJCAI] [paper](https://arxiv.org/pdf/2107.07235.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/AIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/AIM)
