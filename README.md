@@ -3,6 +3,7 @@
 ## Image Matting
 
 **2021**
+- Deep Image Matting with Flexible Guidance Input [arXiv] [paper](https://arxiv.org/pdf/2110.10898.pdf)
 - Virtual Multi-Modality Self-Supervised Foreground Matting for
 Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Virtual_Multi-Modality_Self-Supervised_Foreground_Matting_for_Human-Object_Interaction_ICCV_2021_paper.pdf)
 - Tripartite Information Mining and Integration for Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.pdf)
