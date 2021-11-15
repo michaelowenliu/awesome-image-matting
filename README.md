@@ -3,7 +3,7 @@
 
 - [Image Matting](#Image-Matting)
 - [Video Matting](#Video-Matting)
-- [Dataset](#Dataset)
+- [Datasets](#Datasets)
 - [Websites](#Websites)
 - [Toolkits](#Toolkits)
 
