@@ -1,10 +1,19 @@
 # Awesome-Image-Matting
 
+
+- [Image Matting](#Image-Matting)
+- [Video Matting](#Video-Matting)
+- [Dataset](#Dataset)
+- [Websites](#Websites)
+- [Toolkits](#Toolkits)
+
+
 ## Image Matting
 
 **2021**
-- Highly Efficient Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2110.12748.pdf)
-- Deep Image Matting with Flexible Guidance Input [arXiv] [paper](https://arxiv.org/pdf/2110.10898.pdf)
+- Long-Range Feature Propagating for Natural Image Matting [arXiv](https://arxiv.org/pdf/2109.12252.pdf)
+- Highly Efficient Natural Image Matting [BMVC] [paper](https://arxiv.org/pdf/2110.12748.pdf)
+- Deep Image Matting with Flexible Guidance Input [BMVC] [paper](https://arxiv.org/pdf/2110.10898.pdf)
 - Virtual Multi-Modality Self-Supervised Foreground Matting for
 Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Virtual_Multi-Modality_Self-Supervised_Foreground_Matting_for_Human-Object_Interaction_ICCV_2021_paper.pdf)
 - Tripartite Information Mining and Integration for Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.pdf)
@@ -78,6 +87,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Robust High-Resolution Video Matting with Temporal Guidance [WACV] [paper](https://arxiv.org/pdf/2108.11515.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting.svg?logo=github&label=Stars)](https://github.com/PeterL1n/RobustVideoMatting) :thumbsup: :thumbsup: :thumbsup:
 
 **2021**
+- MODNet-V: Improving Portrait Video Matting via Background Restoration [arXiv](https://arxiv.org/pdf/2109.11818.pdf)
 - Video Matting via Consistency-Regularized Graph Neural Networks [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Video_Matting_via_Consistency-Regularized_Graph_Neural_Networks_ICCV_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/TiantianWang/VideoMatting-CRGNN.svg?logo=github&label=Stars)](https://github.com/TiantianWang/VideoMatting-CRGNN)
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation [CVPR] [paper](https://arxiv.org/pdf/2104.11208.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/DVM.svg?logo=github&label=Stars)](https://github.com/nowsyn/DVM)
 - Attention-guided Temporal Coherent Video Object Matting [arXiv] [paper](https://arxiv.org/pdf/2105.11427.pdf) [![GitHub stars](https://img.shields.io/github/stars/yunkezhang/TCVOM.svg?logo=github&label=Stars)](https://github.com/yunkezhang/TCVOM)
