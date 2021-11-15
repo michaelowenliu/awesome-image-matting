@@ -106,7 +106,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
   
 ## Websites
 
-- https://www.remove.bg/
+- https://www.remove.bg/ :thumbsup: :thumbsup:
 - https://www.unscreen.com/
 - http://www.aisegment.cn/matting.html
 - https://ai.baidu.com/tech/body/seg
@@ -114,4 +114,4 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 
 ## Toolkits
 
-- https://github.com/PaddlePaddle/PaddleSeg [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg)
+- https://github.com/PaddlePaddle/PaddleSeg [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg) :thumbsup: :thumbsup:
