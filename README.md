@@ -11,7 +11,7 @@
 ## Image Matting
 
 **2021**
-- Long-Range Feature Propagating for Natural Image Matting [arXiv][paper](https://arxiv.org/pdf/2109.12252.pdf)
+- Long-Range Feature Propagating for Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2109.12252.pdf)
 - Highly Efficient Natural Image Matting [BMVC] [paper](https://arxiv.org/pdf/2110.12748.pdf)
 - Deep Image Matting with Flexible Guidance Input [BMVC] [paper](https://arxiv.org/pdf/2110.10898.pdf)
 - Privacy-Preserving Portrait Matting [ACMMM] [paper](https://arxiv.org/pdf/2104.14222.pdf)[![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/P3M.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/P3M)
