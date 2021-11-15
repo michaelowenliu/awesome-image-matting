@@ -102,11 +102,12 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - ATM: Attentional Text Matting [WACV] [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Kang_ATM_Attentional_Text_Matting_WACV_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/TextMatting/TextMatting.svg?logo=github&label=Stars)](https://github.com/TextMatting/TextMatting)
 
 ## Datasets
-- Composition-1K
-- Distinctions-646
-- VideoMatte240K
-- PhotoMatte-85
-- RealWorldPortrait-636
+- [Composition-1K](https://arxiv.org/pdf/1703.03872.pdf)
+- [Distinctions-646](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf)
+- [VideoMatte240K](https://arxiv.org/abs/2012.07810.pdf)
+- [PhotoMatte-85](https://arxiv.org/abs/2012.07810.pdf)
+- [DVM](https://arxiv.org/pdf/2104.11208.pdf)
+- [RealWorldPortrait-636](https://arxiv.org/pdf/2012.06722.pdf)
   
 ## Websites
 
