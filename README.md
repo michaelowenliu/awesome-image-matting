@@ -15,7 +15,7 @@
 - Long-Range Feature Propagating for Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2109.12252.pdf)
 - Highly Efficient Natural Image Matting [BMVC] [paper](https://arxiv.org/pdf/2110.12748.pdf)
 - Deep Image Matting with Flexible Guidance Input [BMVC] [paper](https://arxiv.org/pdf/2110.10898.pdf)
-- Privacy-Preserving Portrait Matting [ACMMM] [paper](https://arxiv.org/pdf/2104.14222.pdf)[![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/P3M.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/P3M)
+- Privacy-Preserving Portrait Matting [ACMMM] [paper](https://arxiv.org/pdf/2104.14222.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/P3M.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/P3M)
 - Virtual Multi-Modality Self-Supervised Foreground Matting for
 Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Virtual_Multi-Modality_Self-Supervised_Foreground_Matting_for_Human-Object_Interaction_ICCV_2021_paper.pdf)
 - Tripartite Information Mining and Integration for Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.pdf)
