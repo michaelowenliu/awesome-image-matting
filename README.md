@@ -82,6 +82,9 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Improving Image Matting Using Comprehensive Sampling Sets [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Image_Matting_with_2013_CVPR_paper.pdf)
 - A Learning-Based Approach to Reduce JPEG Artifacts in Image Matting [ICCV] [paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Choi_A_Learning-Based_Approach_2013_ICCV_paper.pdf)
 
+**2006**
+- A Closed Form Solution to Natural Image Matting [CVPR] [paper](https://people.csail.mit.edu/alevin/papers/Matting-Levin-Lischinski-Weiss-CVPR06.pdf) [![GitHub stars](https://img.shields.io/github/stars/MarcoForte/closed-form-matting.svg?logo=github&label=Stars)](https://github.com/MarcoForte/closed-form-matting)
+
 ## Video Matting
 
 **2022**
