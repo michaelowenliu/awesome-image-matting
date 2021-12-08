@@ -52,7 +52,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Context-Aware Image Matting for Simultaneous Foreground and Alpha Estimation [ICCV] [paper](https://arxiv.org/pdf/1909.09725v2.pdf) [![GitHub stars](https://img.shields.io/github/stars/hqqxyy/Context-Aware-Matting.svg?logo=github&label=Stars)](https://github.com/hqqxyy/Context-Aware-Matting)
 - Indices Matter: Learning to Index for Deep Image Matting. [ICCV] [paper](https://arxiv.org/abs/1908.00672) [![GitHub stars](https://img.shields.io/github/stars/poppinace/indexnet_matting.svg?logo=github&label=Stars)](https://github.com/poppinace/indexnet_matting)
 - Disentangled Image Matting [ICCV] [paper](https://arxiv.org/pdf/1909.04686.pdf)
-- A Late Fusion CNN for Digital Matting [CVPR] [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
+- A Late Fusion CNN for Digital Matting [CVPR] [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/yunkezhang/FusionMatting.svg?logo=github&label=Stars)](https://github.com/yunkezhang/FusionMatting)
 - Learning-Based Sampling for Natural Image Matting [CVPR] [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Learning-Based_Sampling_for_Natural_Image_Matting_CVPR_2019_paper.pdf)
 - Learning Transparent Object Matting [IJCV] [paper](https://arxiv.org/pdf/1907.11544.pdf)
   
