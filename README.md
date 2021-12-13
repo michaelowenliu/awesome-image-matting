@@ -69,6 +69,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 
 - DIM: Deep Image Matting [CVPR] [paper](https://arxiv.org/pdf/1703.03872.pdf) [![GitHub stars](https://img.shields.io/github/stars/foamliu/Deep-Image-Matting-PyTorch.svg?logo=github&label=Stars)](https://github.com/foamliu/Deep-Image-Matting-PyTorch) :thumbsup:
 - Designing Effective Inter-Pixel Information Flow for Natural Image Matting [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Aksoy_Designing_Effective_Inter-Pixel_CVPR_2017_paper.pdf) [extended paper](https://arxiv.org/pdf/1707.05055.pdf)
+- Fast Deep Matting for Portrait Animation on Mobile Phone [ACMMM] [paper](https://arxiv.org/pdf/1707.08289.pdf)
   
 **2016**
 - Natural Image Matting Using Deep CNN [ECCV] [paper](http://www.eccv2016.org/files/posters/P-1B-43.pdf)
