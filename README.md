@@ -60,8 +60,9 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 **2018**
 
 - TOM-Net: Learning Transparent Object Matting from a Single Image [CVPR] [paper](https://guanyingc.github.io/TOM-Net/files/tom-net_cvpr18.pdf) [dataset](http://www.visionlab.cs.hku.hk/data/TOM-Net/) [![GitHub stars](https://img.shields.io/github/stars/guanyingc/TOM-Net.svg?logo=github&label=Stars)](https://github.com/guanyingc/TOM-Net)
-- AlphaGAN: Generative Adversarial Networks for Natural Image Matting. [BMVC] [paper](https://arxiv.org/pdf/1807.10088.pdf)
+- AlphaGAN: Generative Adversarial Networks for Natural Image Matting [BMVC] [paper](https://arxiv.org/pdf/1807.10088.pdf)
 - Semantic Human Matting [MM] [paper](https://arxiv.org/pdf/1809.01354.pdf) [![GitHub stars](https://img.shields.io/github/stars/lizhengwei1992/Semantic_Human_Matting.svg?logo=github&label=Stars)](https://github.com/lizhengwei1992/Semantic_Human_Matting)
+- Deep Propagation Based Image Matting [IJCAI] [paper](https://www.ijcai.org/proceedings/2018/0139.pdf)
 
 
 **2017**
