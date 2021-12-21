@@ -30,7 +30,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - High-Resolution Deep Image Matting [AAAI] [paper](https://arxiv.org/pdf/2009.06613.pdf)
 - Towards Enhancing Fine-grained Details for Image Matting [WACV] [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Towards_Enhancing_Fine-Grained_Details_for_Image_Matting_WACV_2021_paper.pdf)
 - Multi-scale Information Assembly for Image Matting [arXiv] [paper](https://arxiv.org/abs/2101.02391)
-- Human Perception Modeling for Automatic Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2103.17020.pdf)
+- Semantic-guided Automatic Natural Image Matting with Trimap Generation Network and Light-weight Non-local Attention [arXiv] [paper](https://arxiv.org/pdf/2103.17020.pdf)
 - Alpha Matte Generation from Single Input for Portrait Matting [arXiv] [paper](https://arxiv.org/pdf/2106.03210.pdf)
 
 **2020**
