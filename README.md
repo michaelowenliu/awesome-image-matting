@@ -10,6 +10,9 @@
 
 ## Image Matting
 
+**2022**
+- Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation [arXiv](https://arxiv.org/pdf/2201.06889.pdf)
+
 **2021**
 - Bridging Composite and Real: Towards End-to-end Deep Image Matting [IJCV] [paper](https://arxiv.org/pdf/2010.16188.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/GFM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/GFM) :thumbsup:
 - Long-Range Feature Propagating for Natural Image Matting [ACMMM] [paper](https://arxiv.org/pdf/2109.12252.pdf) [![GitHub stars](https://img.shields.io/github/stars/qlyoo/lfpnet.svg?logo=github&label=Stars)](https://github.com/qlyoo/lfpnet)
