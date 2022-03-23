@@ -125,6 +125,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 ## Websites
 
 - https://www.remove.bg/ :thumbsup: :thumbsup:
+- https://www.pixmiller.com/ :thumbsup: :thumbsup:
 - https://www.cutout.pro/ :thumbsup: :thumbsup:
 - https://www.unscreen.com/
 - http://www.aisegment.cn/matting.html
