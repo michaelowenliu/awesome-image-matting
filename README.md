@@ -11,6 +11,7 @@
 ## Image Matting
 
 **2022**
+- MatteFormer: Transformer-Based Image Matting via Prior-Tokens [arXiv] [paper](https://arxiv.org/pdf/2203.15662.pdf) [![GitHub stars](https://img.shields.io/github/stars/webtoon/matteformer.svg?logo=github&label=Stars)](https://github.com/webtoon/matteformer)
 - Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation [arXiv] [paper](https://arxiv.org/pdf/2201.06889.pdf)
 
 **2021**
