@@ -11,10 +11,11 @@
 ## Image Matting
 
 **2022**
+- Situational Perception Guided Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09276.pdf)
 - PP-Matting: High-Accuracy Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09433.pdf) [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg) :thumbsup: :thumbsup:
 - Improving Deep Image Matting Via Local Smoothness Assumption [ICME] [paper](https://arxiv.org/pdf/2112.13809.pdf) [![GitHub stars](https://img.shields.io/github/stars/kfeng123/LSA-Matting.svg?logo=github&label=Stars)](https://github.com/kfeng123/LSA-Matting)
 - Rethinking Portrait Matting with Privacy Preserving [arXiv] [paper](https://arxiv.org/pdf/2203.16828.pdf) [![GitHub stars](https://img.shields.io/github/stars/vitae-transformer/vitae-transformer-matting.svg?logo=github&label=Stars)](https://github.com/vitae-transformer/vitae-transformer-matting)
-- MatteFormer: Transformer-Based Image Matting via Prior-Tokens [arXiv] [paper](https://arxiv.org/pdf/2203.15662.pdf) [![GitHub stars](https://img.shields.io/github/stars/webtoon/matteformer.svg?logo=github&label=Stars)](https://github.com/webtoon/matteformer)
+- MatteFormer: Transformer-Based Image Matting via Prior-Tokens [CVPR] [paper](https://arxiv.org/pdf/2203.15662.pdf) [![GitHub stars](https://img.shields.io/github/stars/webtoon/matteformer.svg?logo=github&label=Stars)](https://github.com/webtoon/matteformer)
 - Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation [CVPR] [paper](https://arxiv.org/pdf/2201.06889.pdf)
 
 **2021**
