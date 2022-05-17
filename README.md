@@ -34,7 +34,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Mask Guided Matting via Progressive Refinement Network [CVPR] [paper](https://arxiv.org/pdf/2012.06722.pdf) [![GitHub stars](https://img.shields.io/github/stars/yucornetto/MGMatting.svg?logo=github&label=Stars)](https://github.com/yucornetto/MGMatting)
 - Improved Image Matting via Real-time User Clicks and Uncertainty Estimation [CVPR] [paper](https://arxiv.org/pdf/2012.08323.pdf)
 - Salient Image Matting [CVPR] [paper](https://arxiv.org/pdf/2103.12337.pdf)
-- Learning Affinity-Aware Upsampling for Deep Image Matting [CVPR] [paper](https://arxiv.org/pdf/2011.14288.pdf)
+- Learning Affinity-Aware Upsampling for Deep Image Matting [CVPR] [paper](https://arxiv.org/pdf/2011.14288.pdf) [![GitHub stars](https://img.shields.io/github/stars/dongdong93/a2u_matting.svg?logo=github&label=Stars)](https://github.com/dongdong93/a2u_matting)
 - High-Resolution Deep Image Matting [AAAI] [paper](https://arxiv.org/pdf/2009.06613.pdf)
 - Towards Enhancing Fine-grained Details for Image Matting [WACV] [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Towards_Enhancing_Fine-Grained_Details_for_Image_Matting_WACV_2021_paper.pdf)
 - Multi-scale Information Assembly for Image Matting [arXiv] [paper](https://arxiv.org/abs/2101.02391)
