@@ -6,11 +6,13 @@
 - [Datasets](#Datasets)
 - [Websites](#Websites)
 - [Toolkits](#Toolkits)
+- [Resources](#Resources)
 
 
 ## Image Matting
 
 **2022**
+- Unified Interactive Image Matting [arXiv] [paper](https://arxiv.org/pdf/2205.08324.pdf)
 - Situational Perception Guided Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09276.pdf)
 - PP-Matting: High-Accuracy Natural Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09433.pdf) [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg) :thumbsup: :thumbsup:
 - Improving Deep Image Matting Via Local Smoothness Assumption [ICME] [paper](https://arxiv.org/pdf/2112.13809.pdf) [![GitHub stars](https://img.shields.io/github/stars/kfeng123/LSA-Matting.svg?logo=github&label=Stars)](https://github.com/kfeng123/LSA-Matting)
@@ -68,7 +70,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 **2018**
 
 - TOM-Net: Learning Transparent Object Matting from a Single Image [CVPR] [paper](https://guanyingc.github.io/TOM-Net/files/tom-net_cvpr18.pdf) [dataset](http://www.visionlab.cs.hku.hk/data/TOM-Net/) [![GitHub stars](https://img.shields.io/github/stars/guanyingc/TOM-Net.svg?logo=github&label=Stars)](https://github.com/guanyingc/TOM-Net)
-- AlphaGAN: Generative Adversarial Networks for Natural Image Matting [BMVC] [paper](https://arxiv.org/pdf/1807.10088.pdf)
+- AlphaGAN: Generative Adversarial Networks for Natural Image Matting [BMVC] [paper](https://arxiv.org/pdf/1807.10088.pdf) [![GitHub stars](https://img.shields.io/github/stars/CDOTAD/AlphaGAN-Matting.svg?logo=github&label=Stars)](https://github.com/CDOTAD/AlphaGAN-Matting)
 - Semantic Human Matting [MM] [paper](https://arxiv.org/pdf/1809.01354.pdf) [![GitHub stars](https://img.shields.io/github/stars/lizhengwei1992/Semantic_Human_Matting.svg?logo=github&label=Stars)](https://github.com/lizhengwei1992/Semantic_Human_Matting)
 - Deep Propagation Based Image Matting [IJCAI] [paper](https://www.ijcai.org/proceedings/2018/0139.pdf)
 
@@ -140,3 +142,8 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 ## Toolkits
 
 - https://github.com/PaddlePaddle/PaddleSeg [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg) :thumbsup: :thumbsup:
+
+## Resources
+
+- https://github.com/pkang2017/image-matting [![GitHub stars](https://img.shields.io/github/stars/pkang2017/image-matting.svg?logo=github&label=Stars)](https://github.com/pkang2017/image-matting)
+- https://github.com/wchstrife/Awesome-Image-Matting [![GitHub stars](https://img.shields.io/github/stars/wchstrife/Awesome-Image-Matting.svg?logo=github&label=Stars)](https://github.com/wchstrife/Awesome-Image-Matting)
