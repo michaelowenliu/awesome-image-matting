@@ -142,6 +142,8 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 ## Toolkits
 
 - https://github.com/PaddlePaddle/PaddleSeg [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg) :thumbsup: :thumbsup:
+- https://github.com/pymatting/pymatting [![GitHub stars](https://img.shields.io/github/stars/pymatting/pymatting.svg?logo=github&label=Stars)](https://github.com/pymatting/pymatting)
+- https://github.com/open-mmlab/mmediting [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmediting.svg?logo=github&label=Stars)](https://github.com/open-mmlab/mmediting)
 
 ## Resources
 
