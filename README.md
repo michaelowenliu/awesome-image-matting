@@ -12,6 +12,7 @@
 ## Image Matting
 
 **2022**
+- Hierarchical and Progressive Image Matting [TOMM] [paper](https://dl.acm.org/doi/pdf/10.1145/3540201)
 - Referring Image Matting [arXiv] [paper](https://arxiv.org/pdf/2206.05149.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/RIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/RIM)
 - Unified Interactive Image Matting [arXiv] [paper](https://arxiv.org/pdf/2205.08324.pdf)
 - Situational Perception Guided Image Matting [arXiv] [paper](https://arxiv.org/pdf/2204.09276.pdf)
