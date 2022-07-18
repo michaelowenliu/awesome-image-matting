@@ -12,6 +12,7 @@
 ## Image Matting
 
 **2022**
+- Human Instance Matting via Mutual Guidance and Multi-Instance Refinement [CVPR] [paper](https://arxiv.org/pdf/2205.10767v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/InstMatt.svg?logo=github&label=Stars)](https://github.com/nowsyn/InstMatt)
 - Hierarchical and Progressive Image Matting [TOMM] [paper](https://dl.acm.org/doi/pdf/10.1145/3540201)
 - Referring Image Matting [arXiv] [paper](https://arxiv.org/pdf/2206.05149.pdf) [![GitHub stars](https://img.shields.io/github/stars/JizhiziLi/RIM.svg?logo=github&label=Stars)](https://github.com/JizhiziLi/RIM)
 - Unified Interactive Image Matting [arXiv] [paper](https://arxiv.org/pdf/2205.08324.pdf)
