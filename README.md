@@ -1,15 +1,21 @@
 # Awesome-Image-Matting
 
 
-- [Image Matting](#Image-Matting)
-- [Video Matting](#Video-Matting)
-- [Datasets](#Datasets)
-- [Websites](#Websites)
-- [Toolkits](#Toolkits)
-- [Resources](#Resources)
+- [Awesome-Image-Matting](#awesome-image-matting)
+  - [Image Matting](#image-matting)
+  - [Video Matting](#video-matting)
+  - [Text Matting](#text-matting)
+  - [Datasets](#datasets)
+  - [Websites](#websites)
+  - [Toolkits](#toolkits)
+  - [Resources](#resources)
 
 
 ## Image Matting
+
+**2023**
+
+- ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers [Information Fusion] [paper](https://arxiv.org/abs/2305.15272) [🤗Transformers-ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte#vitmatte) ![GitHub stars](https://img.shields.io/github/stars/hustvl/ViTMatte.svg?logo=github&label=Stars)
 
 **2022**
 - Human Instance Matting via Mutual Guidance and Multi-Instance Refinement [CVPR] [paper](https://arxiv.org/pdf/2205.10767v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/InstMatt.svg?logo=github&label=Stars)](https://github.com/nowsyn/InstMatt)
