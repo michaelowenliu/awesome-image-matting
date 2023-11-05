@@ -15,7 +15,7 @@
 
 **2023**
 
-- ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers [Information Fusion] [paper](https://arxiv.org/abs/2305.15272) [🤗Transformers-ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte#vitmatte) ![GitHub stars](https://img.shields.io/github/stars/hustvl/ViTMatte.svg?logo=github&label=Stars)
+- ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers [Information Fusion] [paper](https://arxiv.org/abs/2305.15272)  ![GitHub stars](https://img.shields.io/github/stars/hustvl/ViTMatte.svg?logo=github&label=Stars) [🤗Transformers-ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte#vitmatte)
 
 **2022**
 - Human Instance Matting via Mutual Guidance and Multi-Instance Refinement [CVPR] [paper](https://arxiv.org/pdf/2205.10767v1.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/InstMatt.svg?logo=github&label=Stars)](https://github.com/nowsyn/InstMatt)
