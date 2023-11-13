@@ -131,10 +131,11 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - [PhotoMatte-85](https://arxiv.org/abs/2012.07810.pdf)
 - [DVM](https://arxiv.org/pdf/2104.11208.pdf)
 - [RealWorldPortrait-636](https://arxiv.org/pdf/2012.06722.pdf)
+- [withoutbg100](https://withoutbg.com/resources/withoutbg100-image-matting-dataset)
   
 ## Websites
-
 - https://www.remove.bg/ :thumbsup: :thumbsup:
+- https://withoutbg.com/  :thumbsup: :thumbsup:
 - https://www.cutout.pro/ :thumbsup: :thumbsup:
 - https://www.pixmiller.com/
 - https://www.unscreen.com/
